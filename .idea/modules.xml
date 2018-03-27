@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dab.iml" filepath="$PROJECT_DIR$/Dab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Platform/Platform.iml" filepath="$PROJECT_DIR$/../Platform/Platform.iml" />
     </modules>
   </component>
 </project>
